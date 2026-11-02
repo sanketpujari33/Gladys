@@ -10,7 +10,6 @@ apidoc
 jsdoc
 *.lcov
 .nyc_output
-.env
 build
 static
 gladys-backups
@@ -23,9 +22,9 @@ persist
 stats.json
 size-plugin.json
 # VSCode
-.vscode
 # Webstorm
 .idea
 .tmp
 .DS_Store
 matter-controller-data
+config.bat
